@@ -1,0 +1,151 @@
+.sidebar{
+  position: relative;
+  float: left;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(182, 163, 243, 0.4);
+  height: 625px;
+  width: auto;
+} 
+ 
+.nav-item{
+  text-decoration: none;
+  padding-top: 20px;
+  font-size: 30px;
+  margin-left: -20px;
+}
+.items{
+list-style: none;
+margin-top: 20px;
+}
+
+.icon{
+  width: 30px;
+  height: 30px;
+  color: black;
+  
+}
+
+.logo{
+  margin-left: 10px;
+}
+
+.nav-link{
+  font-size: 25px;
+  color: black;
+}
+
+.logo-text{
+  font-size: 15px;
+  padding-left: 68px;
+  font-weight: 500;
+}
+
+.compo{
+  margin-left:  147px;
+  margin-right: 30px;
+}
+
+
+.search{
+  margin-top: 25px;
+  margin-left: 150px;
+  margin-bottom: 20px;
+}
+
+.heding{
+  margin-left: 150px;
+  padding-top: 15px;
+}
+
+.scroll-right{
+  width: 50px;
+  height: 50px;
+  margin-left: 60px;
+  margin-bottom: 10px;
+  position: relative;
+  top: 130px;
+}
+
+*:focus {
+  outline: 0 !important;
+}
+
+.scroll-left{
+  width: 50px;
+  height: 50px;
+  margin-left: 200px;
+  margin-bottom: 20px;
+  margin-top: -36px;
+  padding-left: 20px;
+  position: relative;
+  top: 130px;
+  outline: none;
+  background: none;
+  border: none;
+}
+
+.search-icon{
+  position: relative;
+  float: right;
+  right: 30px;
+  border: none;
+  background: none;
+}
+
+.s-icons{
+  width: 18px;
+  height: 18px;
+  border: none;
+}
+
+.action-btn{
+  border: none;
+  background: none;
+  height: 40px;
+}
+
+.togel-icons{
+  width: 50px;
+  height: 50px;
+}
+
+
+/* new sidebar */
+/* 
+.icon, .link_text{
+  font-size: 20px;
+}
+.container{
+  display:flex;
+  margin-left: 0;
+  width: 10px;
+}
+.sidebar{
+  background:#dae6e8;
+  color: black;
+  height: 100vh;
+  width: 200px;
+  transition: all 0.5s;
+  float: left;
+  position: relative;
+}
+.top_section{
+  display: flex;
+  align-items:center;
+  padding:20px 15px;
+}
+.logo{
+  font-size: 30px;
+}
+.bars{
+  display: flex;
+  font-size: 25px;
+  margin-left: 50px;
+}
+.link{
+  display: flex;
+  color:black;
+  padding: 10px 15px;
+  gap: 15px;
+  } */
